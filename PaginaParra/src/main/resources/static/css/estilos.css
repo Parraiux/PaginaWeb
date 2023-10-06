@@ -1,0 +1,185 @@
+body{
+    font-family: sans-serif !important; 
+    padding: 90px 20px 0 !important;
+    margin: 0 !important;
+    background-color: white;
+    
+}
+
+#bodym{
+    font-family: sans-serif;
+    padding: 90px 20px 0;
+    margin: 0;
+    background-color: #542A1B;
+}
+
+#body1{
+    font-family: sans-serif;
+    padding: 90px 20px 0;
+    margin: 0;
+    background-color: #FAE0FD;
+}
+
+#body2{
+    font-family: sans-serif;
+    padding: 90px 20px 0;
+    margin: 0;
+    background-color: #A8A8A8;
+}
+
+#body3{
+    font-family: sans-serif;
+    padding: 90px 20px 0;
+    margin: 0;
+    background-color: #DFE5FB;
+}
+
+#body4{
+    font-family: sans-serif;
+    padding: 90px 20px 0;
+    margin: 0;
+    background-color: #F5C693;
+}
+
+#body5{
+    font-family: sans-serif;
+    padding: 90px 20px 0;
+    margin: 0;
+    background-color: #DCDFE6;
+}
+
+#body6{
+    font-family: sans-serif;
+    padding: 90px 20px 0;
+    margin: 0;
+    background-color: #FAFAFA;
+}
+
+.centro{
+    margin: 1px !important;
+    width: 33% !important;
+
+    box-sizing: border-box !important;
+}
+
+
+    
+#intro{
+    color: black !important;
+}
+
+#par{
+    color: black !important;
+}
+
+#p{
+    color: white;
+}
+
+#caracteristica{
+    color: white;
+}
+
+#p1{
+    color: black;
+}
+
+#caracteristica1{
+    color: black;
+}
+
+#p2{
+    color: white;
+}
+
+#caracteristica2{
+    color: white;
+}
+
+#p3{
+    color: black;
+}
+
+#caracteristica3{
+    color: black;
+}
+
+#p4{
+    color: black;
+}
+
+#caracteristica4{
+    color: black;
+}
+
+#p5{
+    color: black;
+}
+
+#caracteristica5{
+    color: black;
+}
+
+#p6{
+    color: black;
+}
+
+#caracteristica6{
+    color: black;
+}
+
+footer {
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+#footerm {
+    background-color: #73683B;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+#foot1 {
+    background-color: #E07C72;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+#foot2 {
+    background-color: #CDBA69;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+#foot3 {
+    background-color: #C45E50;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+#foot4 {
+    background-color: #FFFFFF;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+#foot5 {
+    background-color: #9D9FA3;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+#foot6 {
+    background-color: #F5C693;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}

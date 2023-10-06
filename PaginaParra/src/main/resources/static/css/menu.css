@@ -1,0 +1,145 @@
+
+* {
+    margin: 0 !important;
+    box-sizing: border-box !important;
+}
+
+
+.header{
+    background-color: orange !important;
+    height: 80px !important;
+    position: fixed;
+    top: 0 !important;
+    left: 0 !important; 
+    width: 100% !important
+    
+}
+
+.nav{
+    display: flex !important;
+    justify-content: space-between !important;
+    max-width: 992px !important;
+    margin: 0 auto !important;
+}
+
+.nav-link{
+    color: white !important;
+    text-decoration: none !important;
+
+}
+
+.logo {
+    font-size: 30px !important; 
+    font-weight: bold !important;
+    padding: 0 40px !important;
+    line-height: 80px !important;
+
+}
+
+.nav-menu{
+    display: flex !important;
+    margin-right: 40px !important;
+    list-style: none !important;
+}
+
+.nav-menu-item{
+    font-size: 18px !important;
+    margin: 0 10px !important;
+    line-height: 80px !important;
+    width: max-content !important;
+}
+.nav-menu-link:hover{
+    background-color: #024070 !important;
+    transition: 0.5s !important;
+}
+.nav-menu-link{
+    padding: 8px 12px !important;
+    border-radius: 4px !important;
+}
+
+.headerm{
+    background-color: #7C150E;
+    height: 80px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%
+}
+
+.header1{
+    background-color: beige;
+    height: 80px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%
+}
+
+.header2{
+    background-color: #7D7D7D;
+    height: 80px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%
+}
+
+.header3{
+    background-color: #542A1B;
+    height: 80px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%
+}
+
+.header4{
+    background-color: #E0E0BF;
+    height: 80px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%
+}
+
+.header5{
+    background-color: #F5C693;
+    height: 80px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%
+}
+
+.header6{
+    background-color: black;
+    height: 80px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%
+}
+.nav-link1{
+    color: black;
+    text-decoration: none;
+}
+.nav-link2{
+    color: white;
+    text-decoration: none;
+}
+.nav-link3{
+    color: white;
+    text-decoration: none;
+}
+.nav-link4{
+    color: black;
+    text-decoration: none;
+}
+.nav-link5{
+    color: black;
+    text-decoration: none;
+}
+.nav-link6{
+    color: white;
+    text-decoration: none;
+}
